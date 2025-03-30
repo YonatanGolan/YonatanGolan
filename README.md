@@ -24,7 +24,7 @@ BSc Computer Engineering Graduate.
 Bar-Ilan University (2020 – 2024)  
 
 - Final Project: **Classification of neurons based on electrical signals using deep learning** (93% accuracy, grade: 100).  
-- **GPA**: 90  
+- **GPA**: 91.27  
 
 ## 🌍 Languages
 - **Hebrew**: Native  
